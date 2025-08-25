@@ -16,17 +16,17 @@ UltraPass256 est un générateur de mots de passe sécurisé écrit en Python. I
 
 ## Installation
 
-1. Cloner ce dépôt :
+1. Clonez ce dépôt :
    ```
    git clone https://github.com/valorisa/UltraPass256.git
    cd UltraPass256
    ```
 
-2. Assurer que Python 3 est installé (sur Termux : `pkg install python`).
+2. Assurez-vous que Python 3 est installé (sur Termux : `pkg install python`).
 
 ## Utilisation
 
-Lancer le script pour générer un mot de passe :
+Lancez le script pour générer un mot de passe :
 ```
 python UltraPass256.py
 ```
