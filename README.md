@@ -4,11 +4,11 @@
 
 ## Description
 
-UltraPass256 est un générateur de mots de passe sécurisé écrit en Python. Il produit des mots de passe de **256 caractères** comportant des lettres majuscules, minuscules, au moins 9 chiffres, et plusieurs caractères spéciaux, idéal pour une utilisation sous Termux ou tout autre environnement Python.
+UltraPass256 est un générateur de mots de passe sécurisé écrit en Python. Il produit des mots de passe qui vont de **32 à 256 caractères** comportant des lettres majuscules, minuscules, au moins 9 chiffres, et plusieurs caractères spéciaux, idéal pour une utilisation sous Termux ou tout autre environnement Python.
 
 ## Fonctionnalités
 
-- Génération de mots de passe ultra-longs (256 caractères).
+- Génération de mots de passe ultra-longs (entre 32 et 256 caractères).
 - Inclus majuscules, minuscules, chiffres et caractères spéciaux.
 - Utilisation du module Python `secrets` pour un niveau de sécurité cryptographique élevé.
 - Script simple, autonome et portable.
